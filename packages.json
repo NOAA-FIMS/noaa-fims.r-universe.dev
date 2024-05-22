@@ -2,5 +2,14 @@
   {
     "package": "FIMS",
     "url": "https://github.com/noaa-fims/fims"
+  },
+  {
+    "package": "r4ss",
+    "url": "https://github.com/r4ss/r4ss"
+  },
+  {
+    "package": "TMBhelper",
+    "url": "https://github.com/kaskr/TMB_contrib_R",
+    "subdir": "TMBhelper"
   }
 ]

@@ -1,7 +1,13 @@
 [
   {
     "package": "FIMS",
-    "url": "https://github.com/noaa-fims/fims"
+    "url": "https://github.com/noaa-fims/fims",
+    "branch": "main"
+  },
+  {
+    "package": "FIMS-dev",
+    "url": "https://github.com/noaa-fims/fims",
+    "branch": "dev"
   },
   {
     "package": "r4ss",

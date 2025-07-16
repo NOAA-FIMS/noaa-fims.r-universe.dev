@@ -10,6 +10,11 @@
     "branch": "dev"
   },
   {
+    "package": "FIMS-dev-test-runiverse",
+    "url": "https://github.com/noaa-fims/fims",
+    "branch": "dev-test-r-universe"
+  },
+  {
     "package": "r4ss",
     "url": "https://github.com/r4ss/r4ss"
   },
